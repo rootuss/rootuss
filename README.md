@@ -13,5 +13,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rootuss&repo=Web_App_Spring&theme=dracula)](https://github.com/rootuss/Web_App_Spring)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rootuss&repo=Web_App&theme=dracula)](https://github.com/rootuss/Web_App)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootuss&theme=dracula&layout=compact)](https://github.com/rootuss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootuss&theme=dracula)](https://github.com/rootuss)
  
