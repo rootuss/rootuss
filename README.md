@@ -2,7 +2,7 @@
 ### I am Daniel Leśniewicz
  
 
-- 🔭 I’m currently working on projects for university
+<!---- 🔭 I’m currently working on projects for university-->
 - 🌱 I’m currently learning Spring
 - 📫 How to reach me: <dan.lesniewicz@gmail.com>
 - 🌐 My website: [http://lesniewicz.toadres.pl/](http://lesniewicz.toadres.pl/)
@@ -11,6 +11,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=perevist&repo=touristicEquipmentRentalShop&theme=dracula)](https://github.com/perevist/touristicEquipmentRentalShop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rootuss&repo=ToDoWebAppSpring&theme=dracula)](https://github.com/rootuss/ToDoWebAppSpring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rootuss&repo=solar_panel&theme=dracula)](https://github.com/rootuss/solar_panel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rootuss&repo=Web_App&theme=dracula)](https://github.com/rootuss/Web_App)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootuss&theme=dracula&layout=compact&hide=matlab)](https://github.com/rootuss)
+
+
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootuss&theme=dracula&layout=compact&hide=matlab)](https://github.com/rootuss)-->
  
